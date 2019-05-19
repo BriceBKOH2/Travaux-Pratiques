@@ -1,0 +1,22 @@
+body {
+  font-size: 16x;
+  text-align: center;
+}
+
+h1, h2 {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 2em;
+  color: red;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+p {
+  text-align: left;
+}
