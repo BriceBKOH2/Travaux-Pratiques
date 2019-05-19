@@ -1,2 +1,12 @@
 Here is listed the different commit currrently done to the project, please keep it up to date.
 - Start of the project, adding README and logcommit, basic project list in readme.
+Debut du projet, ajout de README and logcommit, liste basique du projet dans readme.
+
+- Added home.html, adding basic html page structure to home.html, update to README and logcommit text file
+ajout de home.html, ajout d'une structure basique de page hmtl à home.html, mise à jour des fichiers textes README et logcommit.
+
+- Added Style.css, linking css file to home.html, adding new tags and content to home.html, updating logcommit
+ajout de Style.css, a relié le fichier css à home.html, ajout de nouvelles balises et de contenu à home.html, mise à jour du logcommit
+
+-Added French Transalation to home.html, logcommit and README. Veuillez lire logcommit.txt pour la traduction des commit.
+Ajout de traduction française à home.html, logcommit et README. Please read logcommit.txt for commit's traduction (si vous lisez ceci ... bon au moins j'espère que ça vous a fait sourire, c'est bon pour le moral et la notation).
