@@ -1,0 +1,2 @@
+Here is listed the different commit currrently done to the project, please keep it up to date.
+- Start of the project, adding README and logcommit, basic project list in readme.
